@@ -1,0 +1,167 @@
+[
+  {
+    "nama_penyakit": "apple_black_rot",
+    "deskripsi": "Busuk hitam adalah penyakit jamur yang menyebabkan lesi hitam melingkar pada buah, daun, dan cabang apel. Gejala pada buah sering dimulai dari ujung kelopak dan berkembang menjadi busuk hitam yang keras dan kering.",
+    "obat_rekomendasi": ["Kaptan", "Mankozeb", "Fungisida berbasis Tembaga"]
+  },
+  {
+    "nama_penyakit": "apple_healthy",
+    "deskripsi": "Tanaman apel yang sehat memiliki daun berwarna hijau subur tanpa bercak atau perubahan warna. Buahnya berkembang dengan baik, memiliki kulit yang halus, dan bebas dari cacat atau pembusukan.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "apple_scab",
+    "deskripsi": "Kudis apel adalah penyakit jamur yang menyebabkan bercak berwarna zaitun hingga coklat pada daun, buah, dan ranting. Daun yang terinfeksi dapat rontok sebelum waktunya, dan buah bisa menjadi cacat dan retak.",
+    "obat_rekomendasi": ["Miklobutanil", "Fenarimol", "Kaptan"]
+  },
+  {
+    "nama_penyakit": "cedar_apple_rust",
+    "deskripsi": "Karat apel cedar adalah penyakit jamur yang membutuhkan pohon cedar dan apel untuk menyelesaikan siklus hidupnya. Pada apel, menyebabkan bintik-bintik oranye-kuning cerah di daun dan terkadang di buah.",
+    "obat_rekomendasi": ["Miklobutanil", "Propikonazol", "Triadimefon"]
+  },
+  {
+    "nama_penyakit": "cherry_healthy",
+    "deskripsi": "Tanaman ceri yang sehat ditandai dengan daun berwarna hijau tua yang cerah, kulit kayu yang halus, serta tidak adanya perubahan warna atau pertumbuhan abnormal pada buah dan batang.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "cherry_powdery_mildew",
+    "deskripsi": "Embun tepung pada ceri muncul sebagai lapisan putih seperti bubuk pada daun dan pucuk muda. Penyakit jamur ini dapat menyebabkan daun melengkung, kerdil, dan rontok sebelum waktunya.",
+    "obat_rekomendasi": ["Belerang (Sulfur)", "Kalium Bikarbonat", "Miklobutanil"]
+  },
+  {
+    "nama_penyakit": "corn_common_rust",
+    "deskripsi": "Karat umum pada jagung disebabkan oleh jamur dan tampak seperti pustula kecil berwarna kayu manis di kedua permukaan daun. Pustula ini menjadi lebih gelap seiring bertambahnya usia.",
+    "obat_rekomendasi": ["Propikonazol", "Azoksistrobin", "Piraklostrobin"]
+  },
+  {
+    "nama_penyakit": "corn_gray_leaf_spot",
+    "deskripsi": "Bercak daun abu-abu adalah penyakit jamur pada jagung yang ditandai dengan lesi persegi panjang berwarna cokelat hingga abu-abu pada daun, yang dapat mengurangi area fotosintesis secara signifikan.",
+    "obat_rekomendasi": ["Piraklostrobin", "Azoksistrobin", "Propikonazol"]
+  },
+  {
+    "nama_penyakit": "corn_healthy",
+    "deskripsi": "Tanaman jagung yang sehat berdiri tegak dengan batang yang kokoh dan daun berwarna hijau tua. Tongkolnya terisi penuh dengan biji yang berkembang dengan baik tanpa ada tanda-tanda penyakit.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "corn_northern_leaf_blight",
+    "deskripsi": "Hawar daun utara adalah penyakit jamur pada jagung yang menyebabkan lesi besar, berbentuk cerutu, dan berwarna cokelat pada daun, seringkali dimulai dari daun bagian bawah.",
+    "obat_rekomendasi": ["Propikonazol", "Azoksistrobin", "Trifloxystrobin"]
+  },
+  {
+    "nama_penyakit": "grape_black_rot",
+    "deskripsi": "Busuk hitam anggur adalah penyakit jamur serius yang menyerang daun, pucuk, dan buah. Pada buah, infeksi dimulai sebagai bintik pucat yang membesar dan menjadi hitam, akhirnya menyusut seperti mumi.",
+    "obat_rekomendasi": ["Mankozeb", "Kaptan", "Miklobutanil"]
+  },
+  {
+    "nama_penyakit": "grape_esca",
+    "deskripsi": "Esca (Black Measles) adalah penyakit kayu kompleks pada anggur yang gejalanya termasuk garis-garis seperti 'garis harimau' pada daun dan bintik-bintik pada buah. Dapat menyebabkan kematian mendadak pada tanaman.",
+    "obat_rekomendasi": ["Pencegahan dengan pemangkasan yang baik", "Natrium Tetrathiocarbonate (sebagai fumigan tanah)"]
+  },
+  {
+    "nama_penyakit": "grape_healthy",
+    "deskripsi": "Tanaman anggur yang sehat memiliki pertumbuhan tajuk yang kuat, daun berwarna hijau cerah, dan batang kayu yang sehat. Tandan buah berkembang secara seragam dan bebas dari penyakit.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "grape_leaf_blight",
+    "deskripsi": "Hawar daun anggur muncul sebagai lesi tidak beraturan berwarna cokelat kemerahan pada daun di akhir musim, yang dapat menyatu dan menyebabkan kerontokan daun sebelum waktunya.",
+    "obat_rekomendasi": ["Mankozeb", "Klorotalonil", "Fungisida berbasis Tembaga"]
+  },
+  {
+    "nama_penyakit": "peach_bacterial_spot",
+    "deskripsi": "Bercak bakteri pada persik menyebabkan bintik-bintik ungu atau tidak teratur pada daun, yang seringkali meninggalkan lubang. Pada buah, lesi menjadi retak dan cekung.",
+    "obat_rekomendasi": ["Bakterisida berbasis Tembaga (Oksiklorida)", "Oksitetrasiklin (antibiotik tanaman)"]
+  },
+  {
+    "nama_penyakit": "peach_healthy",
+    "deskripsi": "Tanaman persik yang sehat menunjukkan pertumbuhan baru yang kuat, daun berwarna hijau tua, dan kulit kayu yang sehat. Buah memiliki warna yang baik dan kulit yang utuh tanpa noda.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "pepper_bacterial_spot",
+    "deskripsi": "Bercak bakteri pada cabai menyebabkan lesi basah pada daun, yang kemudian menjadi bersudut dan berwarna coklat tua hingga hitam. Pada buah, bercak yang timbul dan kasar berkembang.",
+    "obat_rekomendasi": ["Bakterisida berbasis Tembaga", "Mankozeb (dicampur tembaga)", "Streptomisin Sulfat"]
+  },
+  {
+    "nama_penyakit": "pepper_healthy",
+    "deskripsi": "Tanaman cabai yang sehat memiliki daun hijau yang lebat, batang yang kokoh, serta bunga dan buah yang berkembang dengan baik. Buahnya halus dan berbentuk sempurna.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "potato_early_blight",
+    "deskripsi": "Hawar dini pada kentang adalah penyakit jamur yang menyebabkan lesi gelap konsentris seperti 'mata banteng' pada daun, biasanya menyerang daun yang lebih tua terlebih dahulu.",
+    "obat_rekomendasi": ["Klorotalonil", "Mankozeb", "Azoksistrobin"]
+  },
+  {
+    "nama_penyakit": "potato_healthy",
+    "deskripsi": "Tanaman kentang yang sehat memiliki kanopi daun hijau yang lebat dan tampak kokoh. Umbi yang berkembang di bawah tanah bebas dari noda dan pembusukan.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "potato_late_blight",
+    "deskripsi": "Busuk daun pada kentang adalah penyakit merusak yang disebabkan oleh jamur air, menyebabkan lesi besar berwarna hijau tua hingga hitam dan basah pada daun dan batang. Dapat menghancurkan seluruh tanaman dengan cepat.",
+    "obat_rekomendasi": ["Simoksanil", "Metalaksil", "Mankozeb", "Propamokarb Hidroklorida"]
+  },
+  {
+    "nama_penyakit": "rice_leaf_blast",
+    "deskripsi": "Blas daun padi adalah penyakit jamur yang merusak dan menyebabkan lesi berbentuk berlian dengan pusat abu-abu atau putih dan batas coklat pada daun.",
+    "obat_rekomendasi": ["Trisiklazol", "Propikonazol", "Isoprothiolane"]
+  },
+  {
+    "nama_penyakit": "rice_leaf_blight",
+    "deskripsi": "Hawar daun bakteri (Kresek) pada padi disebabkan oleh bakteri dan muncul sebagai goresan basah pada tepi daun, yang membesar dan menjadi kuning-oranye, lalu mengering.",
+    "obat_rekomendasi": ["Bakterisida berbasis Tembaga", "Agrimisin", "Paushamycin"]
+  },
+  {
+    "nama_penyakit": "rice_leaf_brown_spot",
+    "deskripsi": "Bercak coklat padi adalah penyakit jamur yang menyebabkan bercak oval berwarna coklat dengan pusat keabu-abuan pada daun dan gabah. Sering dikaitkan dengan stres nutrisi.",
+    "obat_rekomendasi": ["Mankozeb", "Propikonazol", "Iprodion"]
+  },
+  {
+    "nama_penyakit": "rice_leaf_healthy",
+    "deskripsi": "Tanaman padi yang sehat menunjukkan daun berwarna hijau cerah, batang yang kuat, dan malai yang berkembang dengan baik dan terisi penuh dengan bulir padi.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "rice_leaf_scald",
+    "deskripsi": "Penyakit lepuh daun (Lodoh) pada padi adalah penyakit jamur yang gejalanya dimulai dari ujung daun dengan lesi basah berwarna hijau keabu-abuan yang berkembang menjadi pola seperti chevron.",
+    "obat_rekomendasi": ["Propikonazol", "Karbendazim"]
+  },
+  {
+    "nama_penyakit": "rice_leaf_smut",
+    "deskripsi": "Jamur api daun padi disebabkan oleh jamur yang menginfeksi bulir padi, menggantikannya dengan massa spora hitam seperti bubuk. Biasanya tidak menyebabkan kehilangan hasil yang besar.",
+    "obat_rekomendasi": ["Propikonazol (sebagai perlakuan benih)", "Karbendazim"]
+  },
+  {
+    "nama_penyakit": "strawberry_healthy",
+    "deskripsi": "Tanaman stroberi yang sehat memiliki mahkota daun berwarna hijau cerah. Tanaman ini menghasilkan bunga putih dan buah merah yang montok dan berbentuk sempurna.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "strawberry_leaf_scorch",
+    "deskripsi": "Daun hangus stroberi adalah penyakit jamur yang menghasilkan banyak bintik ungu tidak beraturan pada daun. Bintik-bintik ini dapat menyatu, menyebabkan daun tampak seperti terbakar.",
+    "obat_rekomendasi": ["Kaptan", "Miklobutanil", "Fungisida berbasis Tembaga"]
+  },
+  {
+    "nama_penyakit": "tomato_bacterial_spot",
+    "deskripsi": "Bercak bakteri pada tomat menyebabkan lesi kecil, basah, dan gelap pada daun dan batang. Pada buah, lesi ini sedikit menonjol dengan tampilan seperti kudis.",
+    "obat_rekomendasi": ["Bakterisida berbasis Tembaga", "Mankozeb (dicampur tembaga)", "Actigard"]
+  },
+  {
+    "nama_penyakit": "tomato_early_blight",
+    "deskripsi": "Hawar awal tomat adalah penyakit jamur yang ditandai dengan lesi 'mata banteng' berwarna coklat pada daun, batang, dan buah. Biasanya dimulai pada daun bagian bawah.",
+    "obat_rekomendasi": ["Klorotalonil", "Mankozeb", "Azoksistrobin"]
+  },
+  {
+    "nama_penyakit": "tomato_healthy",
+    "deskripsi": "Tanaman tomat yang sehat memiliki daun berwarna hijau subur, batang yang kokoh, dan buah yang berkembang secara merata. Tidak ada tanda-tanda bintik, layu, atau hama.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "tomato_late_blight",
+    "deskripsi": "Busuk daun tomat adalah penyakit jamur yang sangat merusak yang menyebabkan lesi besar, berminyak, berwarna hijau keabu-abuan pada daun dan buah. Menyebar dengan sangat cepat.",
+    "obat_rekomendasi": ["Simoksanil", "Metalaksil", "Mankozeb", "Propamokarb Hidroklorida"]
+  }
+]

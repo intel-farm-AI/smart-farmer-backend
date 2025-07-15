@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow
+numpy
+pillow
+requests
+pydantic
+bs4
