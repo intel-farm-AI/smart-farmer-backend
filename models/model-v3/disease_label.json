@@ -1,0 +1,242 @@
+[
+  {
+    "nama_penyakit": "Apel - Kudis Apel",
+    "deskripsi": "Kudis apel (scab) menyebabkan bercak zaitun sampai cokelat pada daun, buah, dan ranting; buah bisa cacat dan daun rontok dini.",
+    "obat_rekomendasi": ["Miklobutanil", "Fenarimol", "Kaptan"]
+  },
+  {
+    "nama_penyakit": "Apel - Busuk Hitam",
+    "deskripsi": "Busuk hitam menghasilkan lesi hitam melingkar pada buah dan bagian lain; sering dimulai dari ujung kelopak lalu menyebar.",
+    "obat_rekomendasi": ["Kaptan", "Mankozeb", "Fungisida berbasis tembaga"]
+  },
+  {
+    "nama_penyakit": "Apel - Karat Apel Cedar",
+    "deskripsi": "Karat cedar-apel membutuhkan inang cedar dan apel; menyebabkan bintik oranye-kuning di daun dan kadang buah.",
+    "obat_rekomendasi": ["Miklobutanil", "Propikonazol", "Triadimefon"]
+  },
+  {
+    "nama_penyakit": "Apel - Sehat",
+    "deskripsi": "Tanaman apel sehat dengan daun hijau subur, buah berkembang baik tanpa bercak atau pembusukan.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Bluberi - Sehat",
+    "deskripsi": "Tanaman bluberi sehat menunjukkan daun hijau segar, batang kuat, dan buah berkembang merata tanpa tanda penyakit.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Ceri (termasuk asam) - Embun Tepung",
+    "deskripsi": "Embun tepung muncul sebagai lapisan putih bubuk pada daun dan pucuk muda; mengakibatkan distorsi daun, kerdil, dan kerontokan daun.",
+    "obat_rekomendasi": ["Belerang (Sulfur)", "Kalium bikarbonat", "Miklobutanil"]
+  },
+  {
+    "nama_penyakit": "Ceri (termasuk asam) - Sehat",
+    "deskripsi": "Tanaman ceri sehat menunjukkan daun hijau cerah, kulit kayu normal, dan buah tanpa tanda penyakit.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Jagung - Bercak Daun Cercospora (Gray Leaf Spot)",
+    "deskripsi": "Cercospora/gray leaf spot menghasilkan lesi memanjang/berbentuk persegi pada daun yang mengurangi area fotosintesis.",
+    "obat_rekomendasi": ["Piraklostrobin", "Azoksistrobin", "Propikonazol"]
+  },
+  {
+    "nama_penyakit": "Jagung - Karat Umum",
+    "deskripsi": "Karat umum nampak sebagai pustula oranye/cokelat pada permukaan daun, berkembang menjadi gelap seiring usia pustula.",
+    "obat_rekomendasi": ["Propikonazol", "Azoksistrobin", "Piraklostrobin"]
+  },
+  {
+    "nama_penyakit": "Jagung - Hawar Daun Utara",
+    "deskripsi": "Hawar daun utara menyebabkan lesi besar seperti cerutu berwarna coklat pada daun dan dapat memperburuk hasil jika parah.",
+    "obat_rekomendasi": ["Propikonazol", "Azoksistrobin", "Trifloxystrobin"]
+  },
+  {
+    "nama_penyakit": "Jagung - Sehat",
+    "deskripsi": "Tanaman jagung sehat berdiri tegak dengan daun hijau tua dan tongkol terisi penuh tanpa tanda penyakit.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Anggur - Busuk Hitam",
+    "deskripsi": "Busuk hitam anggur menyebabkan bintik pada daun dan buah, buah yang terinfeksi mengecil dan mengering seperti mumi.",
+    "obat_rekomendasi": ["Mankozeb", "Kaptan", "Miklobutanil"]
+  },
+  {
+    "nama_penyakit": "Anggur - Esca (Cacar Hitam)",
+    "deskripsi": "Esca adalah penyakit kayu kompleks yang menyebabkan gejala daun bergaris (tiger-like) dan kemunduran tajuk; dapat menyebabkan kematian tanaman.",
+    "obat_rekomendasi": ["Pemangkasan sanitasi", "Pengelolaan kebun (perbaikan drainase/kanopi)"]
+  },
+  {
+    "nama_penyakit": "Anggur - Hawar Daun Isariopsis",
+    "deskripsi": "Hawar daun Isariopsis menyebabkan bintik cokelat-merah yang tidak beraturan pada daun dan dapat menyebabkan defoliasi prematur.",
+    "obat_rekomendasi": ["Mankozeb", "Klorotalonil", "Fungisida berbasis tembaga"]
+  },
+  {
+    "nama_penyakit": "Anggur - Sehat",
+    "deskripsi": "Tanaman anggur sehat memiliki tajuk kuat, daun hijau cerah, dan tandan buah yang berkembang seragam.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Jeruk - Penyakit CVPD (Citrus Vein Phloem Degeneration)",
+    "deskripsi": "CVPD adalah penyakit vasik pada jeruk yang menyebabkan kelainan jaringan floem/vena, pertumbuhan terhambat, dan gejala klorosis/keriting.",
+    "obat_rekomendasi": ["Pengendalian vektor (jika ada)", "Penggantian bibit sehat", "Sanitasi kebun"]
+  },
+  {
+    "nama_penyakit": "Persik - Bercak Bakteri",
+    "deskripsi": "Bercak bakteri pada persik menyebabkan bintik ungu/gelap pada daun dan lesi cekung pada buah; dapat menyebabkan kerontokan daun.",
+    "obat_rekomendasi": ["Bakterisida berbasis tembaga (oksiklorida)", "Oksitetrasiklin (sesuai regulasi)"]
+  },
+  {
+    "nama_penyakit": "Persik - Sehat",
+    "deskripsi": "Persik sehat menunjukkan pertumbuhan baru kuat, daun hijau, kulit kayu sehat, dan buah tanpa noda.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Paprika - Bercak Bakteri",
+    "deskripsi": "Infeksi bakteri pada paprika menyebabkan bercak basah pada daun yang kemudian menghitam; buah bisa timbul bercak kasar.",
+    "obat_rekomendasi": ["Bakterisida berbasis tembaga", "Mankozeb dicampur tembaga", "Streptomisin sulfat (peraturan setempat)"]
+  },
+  {
+    "nama_penyakit": "Paprika - Sehat",
+    "deskripsi": "Tanaman paprika sehat berdaun lebat, batang kuat, dan buah berkembang normal tanpa bercak.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Kentang - Hawar Daun Dini",
+    "deskripsi": "Hawar daun dini pada kentang menimbulkan lesi konsentris (mata banteng) pada daun dan biasanya menyerang daun tua terlebih dahulu.",
+    "obat_rekomendasi": ["Klorotalonil", "Mankozeb", "Azoksistrobin"]
+  },
+  {
+    "nama_penyakit": "Kentang - Hawar Daun Akhir",
+    "deskripsi": "Hawar daun akhir (late blight) ditandai lesi basah, hijau kehitaman pada daun dan batang; dapat merusak tanaman cepat jika kondisi lembab.",
+    "obat_rekomendasi": ["Simoksanil", "Metalaksil", "Mankozeb", "Propamokarb hidroklorida"]
+  },
+  {
+    "nama_penyakit": "Kentang - Sehat",
+    "deskripsi": "Tanaman kentang sehat memiliki kanopi daun hijau lebat dan umbi berkembang tanpa noda atau pembusukan.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Raspberry - Sehat",
+    "deskripsi": "Raspberry sehat menunjukkan daun hijau, batang kuat, dan buah berkembang normal tanpa tanda penyakit.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Kedelai - Sehat",
+    "deskripsi": "Tanaman kedelai sehat berdiri tegak, daun hijau, dan polong terisi penuh tanpa bercak atau gejala penyakit.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Labu - Embun Tepung",
+    "deskripsi": "Embun tepung pada labu muncul sebagai lapisan putih bubuk pada permukaan daun dan sulur; mengurangi vigor dan hasil jika parah.",
+    "obat_rekomendasi": ["Belerang (Sulfur)", "Kalium bikarbonat", "Fungisida sistemik sesuai kebutuhan"]
+  },
+  {
+    "nama_penyakit": "Stroberi - Daun Gosong",
+    "deskripsi": "Daun gosong stroberi menghasilkan bintik ungu/merah yang dapat menyatu sehingga daun tampak seperti terbakar; mengurangi produksi buah.",
+    "obat_rekomendasi": ["Kaptan", "Miklobutanil", "Fungisida berbasis tembaga"]
+  },
+  {
+    "nama_penyakit": "Stroberi - Sehat",
+    "deskripsi": "Stroberi sehat memiliki mahkota daun hijau cerah, bunga putih, dan buah merah montok yang sempurna.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Tomat - Bercak Bakteri",
+    "deskripsi": "Bercak bakteri pada tomat menyebabkan lesi kecil, basah, dan gelap pada daun dan batang; buah bisa menunjukkan kudis kecil.",
+    "obat_rekomendasi": ["Bakterisida berbasis tembaga", "Mankozeb (campuran dengan tembaga)", "Actigard (induker resistensi)"]
+  },
+  {
+    "nama_penyakit": "Tomat - Hawar Daun Dini",
+    "deskripsi": "Hawar daun dini (early blight) menghasilkan lesi bertingkat/bercak mata banteng pada daun, batang, dan buah; biasanya dimulai dari daun bawah.",
+    "obat_rekomendasi": ["Klorotalonil", "Mankozeb", "Azoksistrobin"]
+  },
+  {
+    "nama_penyakit": "Tomat - Hawar Daun Akhir",
+    "deskripsi": "Hawar daun akhir (late blight) menimbulkan lesi basah besar pada daun dan buah; dapat menyebar sangat cepat pada kondisi basah.",
+    "obat_rekomendasi": ["Simoksanil", "Metalaksil", "Mankozeb", "Propamokarb hidroklorida"]
+  },
+  {
+    "nama_penyakit": "Tomat - Jamur Daun",
+    "deskripsi": "Infeksi jamur pada daun tomat menyebabkan bercak tidak beraturan, nekrosis, dan defoliasi bila parah; jenis jamur bermacam-macam.",
+    "obat_rekomendasi": ["Klorotalonil", "Miklobutanil", "Azoksistrobin"]
+  },
+  {
+    "nama_penyakit": "Tomat - Bercak Daun Septoria",
+    "deskripsi": "Septoria leaf spot menimbulkan bintik kecil bundar pada daun dengan pusat berwarna abu-abu dan tepi cokelat; dapat menyebabkan defoliasi.",
+    "obat_rekomendasi": ["Klorotalonil", "Mankozeb", "Fungisida berbasis tembaga"]
+  },
+  {
+    "nama_penyakit": "Tomat - Tungau Laba-laba",
+    "deskripsi": "Tungau laba-laba mengisap cairan daun menyebabkan bercak keperakan/kuning dan produksi web halus; infestasi berat menurunkan hasil.",
+    "obat_rekomendasi": ["Acarisida yang direkomendasikan", "Pengelolaan kebersihan kebun", "Pencucian daun mekanis"]
+  },
+  {
+    "nama_penyakit": "Tomat - Bercak Target",
+    "deskripsi": "Bercak target (target spot) menimbulkan noda dengan cincin konsentris pada daun/buah; dapat menyebabkan defoliasi lokal.",
+    "obat_rekomendasi": ["Klorotalonil", "Mankozeb", "Fungisida kontak lain sesuai rekomendasi"]
+  },
+  {
+    "nama_penyakit": "Tomat - Virus Keriting Daun Kuning",
+    "deskripsi": "Virus menyebabkan keriting dan klorosis daun, pertumbuhan terhambat, dan hasil menurun; penularan sering lewat vektor serangga.",
+    "obat_rekomendasi": ["Pengendalian vektor (serangga)", "Penggantian varietas tahan", "Gunakan bibit sehat"]
+  },
+  {
+    "nama_penyakit": "Tomat - Virus Mosaik",
+    "deskripsi": "Virus mosaik menimbulkan pola mosaik atau belang pada daun dan malformasi buah; sulit disembuhkan setelah infeksi.",
+    "obat_rekomendasi": ["Pengendalian vektor", "Bibit bebas virus", "Sanitasi dan rotasi tanaman"]
+  },
+  {
+    "nama_penyakit": "Tomat - Sehat",
+    "deskripsi": "Tanaman tomat sehat berdaun hijau, batang kuat, dan buah berkembang merata tanpa noda atau gejala penyakit.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Padi - Hawar Daun Bakteri",
+    "deskripsi": "Hawar daun bakteri pada padi menyebabkan garis/lesi basah di daun yang kemudian mengering; dapat mengurangi hasil signifikan.",
+    "obat_rekomendasi": ["Bakterisida berbasis tembaga", "Agrimisin (jika tersedia dan sesuai regulasi)"]
+  },
+  {
+    "nama_penyakit": "Padi - Garis Bakteri Daun",
+    "deskripsi": "Garis bakteri daun menimbulkan garis memanjang pada daun yang mengering; sering terkait dengan infeksi bakteri spesifik.",
+    "obat_rekomendasi": ["Bakterisida berbasis tembaga", "Sanitasi dan penggunaan benih sehat"]
+  },
+  {
+    "nama_penyakit": "Padi - Hawar Daun Panicle (Bakteri)",
+    "deskripsi": "Hawar yang menyerang malai/panicel dapat menyebabkan bulir menggugur atau latih buruk; manifestasi tergantung patogen spesifik.",
+    "obat_rekomendasi": ["Tindakan sanitasi", "Perlakuan benih (jika direkomendasikan)"]
+  },
+  {
+    "nama_penyakit": "Padi - Hawar Daun / Blast",
+    "deskripsi": "Blas daun padi (blast) menghasilkan lesi berbentuk berlian dengan pusat pucat dan tepi coklat; salah satu penyakit penting padi.",
+    "obat_rekomendasi": ["Trisiklazol", "Propikonazol", "Isoprothiolane"]
+  },
+  {
+    "nama_penyakit": "Padi - Bercak Coklat",
+    "deskripsi": "Bercak coklat menimbulkan noda oval/coklat pada daun, sering terkait stres nutrisi dan dapat menurunkan viabilitas daun.",
+    "obat_rekomendasi": ["Mankozeb", "Propikonazol", "Iprodion"]
+  },
+  {
+    "nama_penyakit": "Padi - Dead Heart (Tepi Daun/Mati Bagian Tengah)",
+    "deskripsi": "Gejala 'dead heart' biasanya akibat hama (mis. wereng) dimana bagian tengah tanaman mati, mengurangi jumlah tiller produktif.",
+    "obat_rekomendasi": ["Pengendalian hama (insektisida terukur)", "Pengelolaan varietas dan sanitasi"]
+  },
+  {
+    "nama_penyakit": "Padi - Embun Tepung Daun",
+    "deskripsi": "Embun tepung pada padi menyebabkan lesi basah di ujung daun yang berkembang menjadi pola chevron; mengurangi efisiensi fotosintesis.",
+    "obat_rekomendasi": ["Propikonazol", "Karbendazim"]
+  },
+  {
+    "nama_penyakit": "Padi - Wereng Batang",
+    "deskripsi": "Wereng batang adalah hama yang mengisap cairan tanaman dan dapat menularkan penyakit; menyebabkan kerdil dan perubahan warna daun.",
+    "obat_rekomendasi": ["Insektisida sesuai rekomendasi lokal", "Pengelolaan habitat dan sanitasi"]
+  },
+  {
+    "nama_penyakit": "Padi - Sehat",
+    "deskripsi": "Padi sehat menunjukkan daun hijau cerah, batang kuat, dan malai berkembang penuh dengan bulir padi.",
+    "obat_rekomendasi": []
+  },
+  {
+    "nama_penyakit": "Padi - Virus Tungro",
+    "deskripsi": "Virus Tungro menyebabkan klorosis, kerdil, dan penurunan hasil yang drastis; ditularkan oleh wereng hijau (vector).",
+    "obat_rekomendasi": ["Pengendalian vektor (wereng)", "Gunakan benih/resisten varietas jika tersedia"]
+  }
+]
