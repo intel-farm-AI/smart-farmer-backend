@@ -7,7 +7,7 @@ from PIL import Image
 import numpy as np
 import io
 from datetime import date
-from openvino import Core   # ✅ pakai import terbaru (bukan openvino.runtime)
+from openvino import Core
 
 # === Inisialisasi Aplikasi ===
 app = FastAPI(title="Smart Farmer - Plant Assistant API")
@@ -22,13 +22,13 @@ app.add_middleware(
 
 # === Load Model OpenVINO ===
 ie = Core()
-model = ie.read_model("models/model-v3/plant-disease-model-v3.xml")
+model = ie.read_model("models/model-v3.1/plant-disease-v3.1.xml")
 compiled_model = ie.compile_model(model=model, device_name="CPU")
 input_layer = compiled_model.input(0)
 output_layer = compiled_model.output(0)
 
 # === Labels ===
-with open("models/model-v3/labels_id.json", encoding="utf-8") as f:
+with open("models/model-v3.1/labels.json", encoding="utf-8") as f:
     class_indices = json.load(f)
 
 # Buat list kosong dengan panjang sesuai jumlah kelas
@@ -40,11 +40,9 @@ for key, name in class_indices.items():
     idx = int(key.split("_")[-1])
     class_names[idx] = name
 
-
-
 # === Dataset Penyakit ===
 disease_info_map = {}
-with open("models/model-v3/disease_label.json", encoding="utf-8") as f:
+with open("models/model-v3.1/disease_label.json", encoding="utf-8") as f:
     disease_data = json.load(f)
     for item in disease_data:
         disease_info_map[item['nama_penyakit']] = {
