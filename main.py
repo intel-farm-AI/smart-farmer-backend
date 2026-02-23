@@ -7,7 +7,7 @@ from PIL import Image
 import numpy as np
 import io
 from datetime import date
-from openvino import Core   # ✅ pakai import terbaru (bukan openvino.runtime)
+from openvino import Core
 
 # === Inisialisasi Aplikasi ===
 app = FastAPI(title="Smart Farmer - Plant Assistant API")
@@ -37,8 +37,6 @@ class_names = [""] * len(class_indices)
 for key, name in class_indices.items():
     idx = int(key)
     class_names[idx] = name
-
-
 
 # === Dataset Penyakit ===
 disease_info_map = {}
